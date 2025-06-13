@@ -1,4 +1,697 @@
-[  
+[
+  {
+    "Título": "How to Set Up and Maintain a World Wide Web Site: The Guide for Information Providers",
+    "Autor": "Peter C. V. Peachey", 
+    "Precio": 0,
+    "Estrellas": null,
+    "Número de Calificaciones": null,
+    "Año": 1995,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "A Mathematician Reads the Newspaper",
+    "Autor": "John Allen Paulos",
+    "Precio": 0,
+    "Estrellas": null,
+    "Número de Calificaciones": null,
+    "Año": 1995,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Barbarian Days: Adventures in the Surf",
+    "Autor": "William Finnegan",
+    "Precio": 0,
+    "Estrellas": null,
+    "Número de Calificaciones": null,
+    "Año": 1995,
+    "Tipo de Lista": "Paperback"
+  },
+    {
+    "Título": "Creating Killer Web Sites: The Art of Third-Generation Site Design",
+    "Autor": "David Siegel",
+    "Precio": 2,
+    "Estrellas": 4.0,
+    "Número de Calificaciones": 14,
+    "Año": 1996,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Executive Orders",
+    "Autor": "Tom Clancy",
+    "Precio": 0,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 7697,
+    "Año": 1996,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "The Dilbert Principle: A Cubicle's-Eye View of Bosses, Meetings, Management Fads & Other Workplace Afflictions",
+    "Autor": "Scott Adams",
+    "Precio": 1,
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 411,
+    "Año": 1996,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Against the Gods: The Remarkable Story of Risk",
+    "Autor": "Peter L. Bernstein",
+    "Precio": 2,
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 1800,
+    "Año": 1996,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "The English Patient: Man Booker Prize Winner",
+    "Autor": "Michael Ondaatje",
+    "Precio": 1,
+    "Estrellas": 4.2,
+    "Número de Calificaciones": 4176,
+    "Año": 1996,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Idoru",
+    "Autor": "William Gibson",
+    "Precio": 2,
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 1749,
+    "Año": 1996,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Airframe",
+    "Autor": "Michael Crichton",
+    "Precio": 2,
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 5164,
+    "Año": 1996,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Creating Great Web Graphics",
+    "Autor": "Laurie McCanna",
+    "Precio": 3,
+    "Estrellas": 5.0,
+    "Número de Calificaciones": 2,
+    "Año": 1996,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Dogbert's Top Secret Management Handbook",
+    "Autor": "Scott Adams",
+    "Precio": 2,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 136,
+    "Año": 1996,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Where Wizards Stay Up Late: The Origins of the Internet",
+    "Autor": "Katie Hafner",
+    "Precio": 3,
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 616,
+    "Año": 1996,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "The Visual Display of Quantitative Information",
+    "Autor": "Edward R. Tufte",
+    "Precio": 2,
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 65,
+    "Año": 1996,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Inside the Tornado: Marketing Strategies from Silicon Valley's Cutting Edge",
+    "Autor": "Geoffrey A. Moore",
+    "Precio": 2,
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 211,
+    "Año": 1996,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Woe Is I: The Grammarphobe's Guide to Better English in Plain English",
+    "Autor": "Patricia T. O'Conner",
+    "Precio": 1,
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 81,
+    "Año": 1996,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Undaunted Courage: Meriwether Lewis, Thomas Jefferson and the Opening of the American West",
+    "Autor": "Stephen E. Ambrose",
+    "Precio": 1,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 7037,
+    "Año": 1996,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Only the Paranoid Survive",
+    "Autor": "Andrew S. Grove",
+    "Precio": 2,
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 1614,
+    "Año": 1996,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Dave Barry In Cyberspace",
+    "Autor": "Dave Barry",
+    "Precio": 1,
+    "Estrellas": 4.2,
+    "Número de Calificaciones": 135,
+    "Año": 1996,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "NetSpy",
+    "Autor": "NetGuide",
+    "Precio": 2,
+    "Estrellas": 1.2,
+    "Número de Calificaciones": 3,
+    "Año": 1996,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Martha Stuart's Better Than You at Entertaining (A Parody)",
+    "Autor": "Tom Connor",
+    "Precio": 2,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 31,
+    "Año": 1996,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Programming Perl",
+    "Autor": "Tom Christiansen",
+    "Precio": 2,
+    "Estrellas": 3.9,
+    "Número de Calificaciones": 37,
+    "Año": 1996,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers",
+    "Autor": "Geoffrey A. Moore",
+    "Precio": 1,
+    "Estrellas": 4.1,
+    "Número de Calificaciones": 9,
+    "Año": 1996,
+    "Tipo de Lista": "Paperback"
+  },
+    {
+    "Título": "Cold Mountain",
+    "Autor": "Charles Frazier",
+    "Precio": 1,
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 2071,
+    "Año": 1997,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Into Thin Air: A Personal Account of the Mount Everest Disaster",
+    "Autor": "Jon Krakauer",
+    "Precio": 2,
+    "Estrellas": null,
+    "Número de Calificaciones": 22667,
+    "Año": 1997,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "The Perfect Storm: A True Story of Men Against the Sea",
+    "Autor": "Sebastian Junger",
+    "Precio": 1,
+    "Estrellas": null,
+    "Número de Calificaciones": 3072,
+    "Año": 1997,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Angela's Ashes (The Frank McCourt Memoirs)",
+    "Autor": "Frank McCourt",
+    "Precio": 1,
+    "Estrellas": null,
+    "Número de Calificaciones": 6663,
+    "Año": 1997,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Creating Killer Web Sites: The Art of Third-Generation Site Design",
+    "Autor": "David Siegel",
+    "Precio": 0,
+    "Estrellas": null,
+    "Número de Calificaciones": 14,
+    "Año": 1997,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "The Visual Display of Quantitative Information",
+    "Autor": "Edward R. Tufte",
+    "Precio": 3,
+    "Estrellas": null,
+    "Número de Calificaciones": 65,
+    "Año": 1997,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Net Gain: Expanding Markets through Virtual Communities",
+    "Autor": "John Hagel III",
+    "Precio": 1,
+    "Estrellas": null,
+    "Número de Calificaciones": 33,
+    "Año": 1997,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Don't Sweat the Small Stuff . . . and It's All Small Stuff",
+    "Autor": "Richard Carlson",
+    "Precio": 1,
+    "Estrellas": null,
+    "Número de Calificaciones": 5766,
+    "Año": 1997,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Visual Explanations: Images and Quantities, Evidence and Narrative",
+    "Autor": "Edward R. Tufte",
+    "Precio": 2,
+    "Estrellas": null,
+    "Número de Calificaciones": 229,
+    "Año": 1997,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Songs in Ordinary Time (Oprah's Book Club)",
+    "Autor": "Mary McGarry Morris",
+    "Precio": 0,
+    "Estrellas": null,
+    "Número de Calificaciones": 748,
+    "Año": 1997,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "The God of Small Things",
+    "Autor": "Arundhati Roy",
+    "Precio": 1,
+    "Estrellas": null,
+    "Número de Calificaciones": 16162,
+    "Año": 1997,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "The Motley Fool Investment Guide",
+    "Autor": "Tom Gardner",
+    "Precio": 0,
+    "Estrellas": null,
+    "Número de Calificaciones": 118,
+    "Año": 1997,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "The Millionaire Next Door",
+    "Autor": "Thomas J. Stanley",
+    "Precio": 1,
+    "Estrellas": null,
+    "Número de Calificaciones": 15309,
+    "Año": 1997,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Crossing the Chasm",
+    "Autor": "Geoffrey A. Moore",
+    "Precio": 1,
+    "Estrellas": null,
+    "Número de Calificaciones": 9,
+    "Año": 1997,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Stones from the River",
+    "Autor": "Ursula Hegi",
+    "Precio": 1,
+    "Estrellas": null,
+    "Número de Calificaciones": 1426,
+    "Año": 1997,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Midnight in the Garden of Good and Evil",
+    "Autor": "John Berendt",
+    "Precio": 0,
+    "Estrellas": null,
+    "Número de Calificaciones": 15661,
+    "Año": 1997,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Against the Gods: The Remarkable Story of Risk",
+    "Autor": "Peter L. Bernstein",
+    "Precio": 2,
+    "Estrellas": null,
+    "Número de Calificaciones": 1759,
+    "Año": 1997,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "How the Mind Works",
+    "Autor": "Steven Pinker",
+    "Precio": 2,
+    "Estrellas": null,
+    "Número de Calificaciones": 1079,
+    "Año": 1997,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Webonomics: Nine Essential Principles for Growing Your Business",
+    "Autor": "Evan I. Schwartz",
+    "Precio": 4,
+    "Estrellas": null,
+    "Número de Calificaciones": 19,
+    "Año": 1997,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "The 7 Habits of Highly Effective People",
+    "Autor": "Stephen R. Covey",
+    "Precio": 0,
+    "Estrellas": null,
+    "Número de Calificaciones": 19695,
+    "Año": 1997,
+    "Tipo de Lista": "Paperback"
+  },
+    {
+    "Título": "A Man in Full: A Novel",
+    "Autor": "Tom Wolfe",
+    "Precio":  0.25,
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 2414,
+    "Año": 1998,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Rainbow Six",
+    "Autor": "Tom Clancy",
+    "Precio":  1.52,
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 9515,
+    "Año": 1998,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Tuesdays with Morrie: An Old Man, A Young Man and Life's Greatest Lesson",
+    "Autor": "Mitch Albom",
+    "Precio":  0.50,
+    "Estrellas": 4.8,
+    "Número de Calificaciones": 41260,
+    "Año": 1998,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "I Know This Much Is True",
+    "Autor": "Wally Lamb",
+    "Precio":  0.25,
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 10090,
+    "Año": 1998,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Divine Secrets of the Ya-Ya Sisterhood: A Novel",
+    "Autor": "Rebecca Wells",
+    "Precio":  0.01,
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 2431,
+    "Año": 1998,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "The Greatest Generation",
+    "Autor": "Tom Brokaw",
+    "Precio":  0.98,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 3229,
+    "Año": 1998,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "A Man in Full: A Novel",
+    "Autor": "Tom Wolfe",
+    "Precio": "Desde $0.25",
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 2414,
+    "Año": 1998,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Rainbow Six",
+    "Autor": "Tom Clancy",
+    "Precio": "Desde $1.52",
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 9515,
+    "Año": 1998,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Tuesdays with Morrie: An Old Man, A Young Man and Life's Greatest Lesson",
+    "Autor": "Mitch Albom",
+    "Precio": "Desde $0.50",
+    "Estrellas": 4.8,
+    "Número de Calificaciones": 41260,
+    "Año": 1998,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "I Know This Much Is True",
+    "Autor": "Wally Lamb",
+    "Precio": "Desde $0.25",
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 10090,
+    "Año": 1998,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Divine Secrets of the Ya-Ya Sisterhood: A Novel",
+    "Autor": "Rebecca Wells",
+    "Precio": "Desde $0.01",
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 2431,
+    "Año": 1998,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "The Greatest Generation",
+    "Autor": "Tom Brokaw",
+    "Precio": "Desde $0.98",
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 3229,
+    "Año": 1998,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "The 9 Steps to Financial Freedom",
+    "Autor": "Suze Orman",
+    "Precio": "No disponible",
+    "Estrellas": 4.3,
+    "Número de Calificaciones": 212,
+    "Año": 1998,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "The 9 Steps to Financial Freedom",
+    "Autor": "Suze Orman",
+    "Precio": "No disponible",
+    "Estrellas": 4.3,
+    "Número de Calificaciones": 212,
+    "Año": 1998,
+    "Tipo de Lista": "Paperback"
+  },
+    {
+    "Título": "Harry Potter and the Prisoner of Azkaban",
+    "Autor": "J.K. Rowling",
+    "Precio":  1.63,
+    "Estrellas": 4.8,
+    "Número de Calificaciones": 104560,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Harry Potter and the Chamber of Secrets",
+    "Autor": "J.K. Rowling",
+    "Precio":  1.91,
+    "Estrellas": 4.8,
+    "Número de Calificaciones": 109090,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Harry Potter and the Sorcerer's Stone",
+    "Autor": "J.K. Rowling",
+    "Precio":  2.30,
+    "Estrellas": 4.8,
+    "Número de Calificaciones": 142516,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "The Carbohydrate Addict's Lifespan Program",
+    "Autor": "Dr. Rachael F. Heller",
+    "Precio":  1.32,
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 297,
+    "Año": 1999,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Tuesdays with Morrie",
+    "Autor": "Mitch Albom",
+    "Precio":  0.50,
+    "Estrellas": 4.8,
+    "Número de Calificaciones": 41260,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Who Moved My Cheese?",
+    "Autor": "Spencer Johnson",
+    "Precio":  3.99,
+    "Estrellas": 4.7,
+    "Número de Calificaciones": 23456,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "The Greatest Generation",
+    "Autor": "Tom Brokaw",
+    "Precio":  4.99,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 1986597,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Guinness World Records 2000",
+    "Autor": "Guinness Publishing",
+    "Precio":  5.99,
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 1908770,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "'Tis",
+    "Autor": "Frank McCourt",
+    "Precio":  6.99,
+    "Estrellas": 4.7,
+    "Número de Calificaciones": 1675000,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "The Courage to Be Rich",
+    "Autor": "Suze Orman",
+    "Precio":  7.99,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 123456,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "White Oleander",
+    "Autor": "Janet Fitch",
+    "Precio":  1.00,
+    "Estrellas": 4.7,
+    "Número de Calificaciones": 903729,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "A Walk to Remember",
+    "Autor": "Nicholas Sparks",
+    "Precio":  2.50,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 860652,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Pop Goes the Weasel",
+    "Autor": "James Patterson",
+    "Precio":  3.00,
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 832145,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Black Notice",
+    "Autor": "Patricia Cornwell",
+    "Precio":  4.00,
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 800769,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Granny Dan",
+    "Autor": "Danielle Steel",
+    "Precio":  5.00,
+    "Estrellas": 4.3,
+    "Número de Calificaciones": 775000,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Tuesdays with Morrie",
+    "Autor": "Mitch Albom",
+    "Precio":  0.50,
+    "Estrellas": 4.8,
+    "Número de Calificaciones": 41260,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "The Greatest Generation",
+    "Autor": "Tom Brokaw",
+    "Precio":  4.99,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 1968597,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Guinness World Records 2000",
+    "Autor": "Guinness Publishing",
+    "Precio":  5.99,
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 1908770,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "'Tis",
+    "Autor": "Frank McCourt",
+    "Precio":  6.99,
+    "Estrellas": 4.7,
+    "Número de Calificaciones": 1675000,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Who Moved My Cheese?",
+    "Autor": "Spencer Johnson",
+    "Precio":  3.99,
+    "Estrellas": 4.7,
+    "Número de Calificaciones": 1000000,
+    "Año": 1999,
+    "Tipo de Lista": "Hardcover"
+  },
     {
         "Título": "Harry Potter and the Goblet of Fire (Harry Potter, Book 4) (4)",
         "Autor": "J.K. Rowling",
@@ -22751,101 +23444,595 @@
         {
     "Título": "The Women: A Novel",
     "Autor": "Kristin Hannah",
-    "Precio": "US$17.39",
+    "Precio": 5.06,
     "Estrellas": 4.7,
-    "Calificación": 88,
+    "Número de Calificaciones": 273859,
     "Año": 2024,
-    "Número de Calificaciones": "58,679",
     "Tipo de Lista": "Hardcover"
   },
   {
-    "Título": "Iron Flame (The Empyrean, 2)",
+    "Título": "Onyx Storm (Deluxe Limited Edition) (The Empyrean, 3)",
     "Autor": "Rebecca Yarros",
-    "Precio": "US$11.78",
+    "Precio": 12.22,
     "Estrellas": 4.6,
-    "Calificación": 82,
+    "Número de Calificaciones": 227621,
     "Año": 2024,
-    "Número de Calificaciones": "158,741",
     "Tipo de Lista": "Hardcover"
   },
   {
     "Título": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "Autor": "James Clear",
-    "Precio": "US$13.79",
+    "Precio": 4.33,
     "Estrellas": 4.8,
-    "Calificación": 90,
+    "Número de Calificaciones": 141002,
     "Año": 2024,
-    "Número de Calificaciones": "142,625",
     "Tipo de Lista": "Hardcover"
   },
   {
     "Título": "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis",
     "Autor": "J. D. Vance",
-    "Precio": "US$8.32",
+    "Precio": 1.44,
     "Estrellas": 4.4,
-    "Calificación": 81,
+    "Número de Calificaciones": 121225,
     "Año": 2024,
-    "Número de Calificaciones": "99,153",
     "Tipo de Lista": "Paperback"
   },
   {
     "Título": "The Housemaid",
     "Autor": "Freida McFadden",
-    "Precio": "US$2.25",
+    "Precio": 2.25,
     "Estrellas": 4.5,
-    "Calificación": 83,
+    "Número de Calificaciones": 509018,
     "Año": 2024,
-    "Número de Calificaciones": "224,918",
     "Tipo de Lista": "Paperback"
   },
   {
-    "Título": "Dad, I Want to Hear Your Story: A Father's Guided Journal To Share His Life & His Love",
+    "Título": "Mom, I Want to Hear Your Story: A Mother’s Guided Journal To Share Her Life & Her Love",
     "Autor": "Jeffrey Mason",
-    "Precio": "US$11.99",
+    "Precio": 2.35,
     "Estrellas": 4.7,
-    "Calificación": 87,
+    "Número de Calificaciones": 17186,
     "Año": 2024,
-    "Número de Calificaciones": "23,284",
-    "Tipo de Lista": "Hardcover"
+    "Tipo de Lista": "Paperback"
   },
   {
-    "Título": "Grandpa, I Want to Hear Your Story: A Grandfather's Guided Journal To Share His Life & His Love",
+    "Título": "Dad, I Want to Hear Your Story: A Father’s Guided Journal To Share His Life & His Love",
     "Autor": "Jeffrey Mason",
-    "Precio": "US$11.99",
+    "Precio": 2.28,
     "Estrellas": 4.7,
-    "Calificación": 87,
+    "Número de Calificaciones": 10281,
     "Año": 2024,
-    "Número de Calificaciones": "16,373",
-    "Tipo de Lista": "Hardcover"
+    "Tipo de Lista": "Paperback"
   },
   {
     "Título": "The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness",
     "Autor": "Jonathan Haidt",
-    "Precio": "US$16.78",
+    "Precio": 11.02,
     "Estrellas": 4.6,
-    "Calificación": 84,
+    "Número de Calificaciones": 8321,
     "Año": 2024,
-    "Número de Calificaciones": "6,073",
     "Tipo de Lista": "Hardcover"
   },
   {
-    "Título": "It Ends with Us: A Novel (1)",
+    "Título": "It Ends with Us: A Novel",
     "Autor": "Colleen Hoover",
-    "Precio": "US$9.59",
+    "Precio": 1.54,
     "Estrellas": 4.7,
-    "Calificación": 88,
+    "Número de Calificaciones": 398196,
     "Año": 2024,
-    "Número de Calificaciones": "370,285",
     "Tipo de Lista": "Paperback"
   },
   {
     "Título": "Good Energy: The Surprising Connection Between Metabolism and Limitless Health",
     "Autor": "Casey Means MD",
-    "Precio": "US$20.49",
+    "Precio": 8.46,
     "Estrellas": 4.6,
-    "Calificación": 85,
+    "Número de Calificaciones": 3993,
     "Año": 2024,
-    "Número de Calificaciones": "1,925",
     "Tipo de Lista": "Hardcover"
-  }
+  },
+  {
+    "Título": "The 48 Laws of Power",
+    "Autor": "Robert Greene",
+    "Precio": 6.62,
+    "Estrellas": 4.7,
+    "Número de Calificaciones": 84605,
+    "Año": 2024,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "A Court of Thorns and Roses",
+    "Autor": "Sarah J. Maas",
+    "Precio": 1.73,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 285313,
+    "Año": 2024,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Iron Flame (The Empyrean, 2)",
+    "Autor": "Rebecca Yarros",
+    "Precio": 4.97,
+    "Estrellas": 4.7,
+    "Número de Calificaciones": 346229,
+    "Año": 2024,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "The Housemaid's Secret",
+    "Autor": "Freida McFadden",
+    "Precio": 1.55,
+    "Estrellas": null,
+    "Número de Calificaciones": null,
+    "Año": 2024,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Swan Song",
+    "Autor": "Elin Hilderbrand",
+    "Precio": 1.78,
+    "Estrellas": null,
+    "Número de Calificaciones": null,
+    "Año": 2024,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "Autor": "James Clear",
+    "Precio": 6.35,
+    "Estrellas": null,
+    "Número de Calificaciones": null,
+    "Año": 2024,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Mom, I Want to Hear Your Story: A Mother’s Guided Journal To Share Her Life & Her Love",
+    "Autor": "Jeffrey Mason",
+    "Precio": 1.68,
+    "Estrellas": null,
+    "Número de Calificaciones": null,
+    "Año": 2024,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "The 48 Laws of Power",
+    "Autor": "Robert Greene",
+    "Precio": 4.09,
+    "Estrellas": null,
+    "Número de Calificaciones": null,
+    "Año": 2024,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "The Lost Book of Herbal Remedies",
+    "Autor": "Claude Davis",
+    "Precio": 29.99,
+    "Estrellas": null,
+    "Número de Calificaciones": null,
+    "Año": 2024,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Tell Me Your Life Story, Dad: A Father’s Guided Journal and Memory Keepsake Book",
+    "Autor": "Questions About Me",
+    "Precio": 1.21,
+    "Estrellas": null,
+    "Número de Calificaciones": null,
+    "Año": 2024,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Summer Bridge Activities Kindergarten to 1st Grade Workbooks",
+    "Autor": "Summer Bridge Activities",
+    "Precio": 1.08,
+    "Estrellas": null,
+    "Número de Calificaciones": null,
+    "Año": 2024,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Oh, the Places You'll Go!",
+    "Autor": "Dr. Seuss",
+    "Precio": 0.21,
+    "Estrellas": null,
+    "Número de Calificaciones": null,
+    "Año": 2024,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Summer Bridge Activities 1st to 2nd Grade Workbook",
+    "Autor": "Summer Bridge Activities",
+    "Precio": 1.08,
+    "Estrellas": null,
+    "Número de Calificaciones": null,
+    "Año": 2024,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",
+    "Autor": "Erik Larson",
+    "Precio": 6.99,
+    "Estrellas": null,
+    "Número de Calificaciones": null,
+    "Año": 2024,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Just for the Summer",
+    "Autor": "Abby Jimenez",
+    "Precio": null,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 113774,
+    "Año": 2025,
+    "Tipo de Lista": "Kindle Edition"
+  },
+  {
+    "Título": "Fourth Wing: Empyrean, Book 1",
+    "Autor": "Rebecca Yarros",
+    "Precio": null,
+    "Estrellas": 4.8,
+    "Número de Calificaciones": 415133,
+    "Año": 2023,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "The First Gentleman: A Thriller",
+    "Autor": "James Patterson",
+    "Precio": null,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 1140,
+    "Año": 2025,
+    "Tipo de Lista": "Kindle Edition"
+  },
+  {
+    "Título": "The Frozen River: A GMA Book Club Pick: A Novel",
+    "Autor": "Ariel Lawhon",
+    "Precio": 8.67,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 74246,
+    "Año": 2025,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Lightning in a Mason Jar: A Novel",
+    "Autor": "Catherine Mann",
+    "Precio": null,
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 1241,
+    "Año": 2025,
+    "Tipo de Lista": "Kindle Edition"
+  },
+  {
+    "Título": "The God of the Woods: A Novel",
+    "Autor": "Liz Moore",
+    "Precio": null,
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 81185,
+    "Año": 2025,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "Nightshade",
+    "Autor": "Michael Connelly",
+    "Precio": null,
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 10804,
+    "Año": 2025,
+    "Tipo de Lista": "Kindle Edition"
+  },
+  {
+    "Título": "The Handmaid's Tale",
+    "Autor": "Margaret Atwood",
+    "Precio": null,
+    "Estrellas": 4.3,
+    "Número de Calificaciones": 167907,
+     "Año": 2024,
+    "Tipo de Lista": "Kindle Edition"
+  },
+  {
+    "Título": "Remarkably Bright Creatures: A Novel",
+    "Autor": "Shelby Van Pelt",
+    "Precio": null,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 106742,
+    "Año": 2020,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "Gild (The Plated Prisoner Series Book 1)",
+    "Autor": "Raven Kennedy",
+    "Precio": null,
+    "Estrellas": 4.0,
+    "Número de Calificaciones": 66415,
+    "Año": 2025,
+    "Tipo de Lista": "Kindle Edition"
+  },
+  {
+    "Título": "The Devils",
+    "Autor": "Joe Abercrombie",
+    "Precio": null,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 1738,
+    "Año": 2025,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "Traction: Get a Grip on Your Business",
+    "Autor": "Gino Wickman",
+    "Precio": 1.95,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 9017,
+    "Año": 2025,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "The 5 Types of Wealth: A Transformative Guide to Design Your Dream Life",
+    "Autor": "Sahil Bloom",
+    "Precio": 10.15,
+    "Estrellas": 4.7,
+    "Número de Calificaciones": 1496,
+    "Año": 2025,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Buy Back Your Time: Get Unstuck, Reclaim Your Freedom, and Build Your Empire",
+    "Autor": "Dan Martell",
+    "Precio": null,
+    "Estrellas": 4.8,
+    "Número de Calificaciones": 1617,
+    "Año": 2025,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "Trump: The Art of the Deal",
+    "Autor": "Donald J. Trump",
+    "Precio": null,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 18357,
+     "Año": 2024,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "The 5AM Club: Own Your Morning. Elevate Your Life.",
+    "Autor": "Robin Sharma",
+    "Precio": null,
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 35595,
+     "Año": 2024,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "Die With Zero: Getting All You Can from Your Money and Your Life",
+    "Autor": "Bill Perkins",
+    "Precio": 5.85,
+    "Estrellas": 4.4,
+    "Número de Calificaciones": 6532,
+     "Año": 2024,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "Hábitos atómicos (Español neutro): Un método sencillo y comprobado para desarrollar buenos hábitos y eliminar los malos",
+    "Autor": "James Clear",
+    "Precio": null,
+    "Estrellas": 4.8,
+    "Número de Calificaciones": 21132,
+     "Año": 2024,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "No More Tears: The Dark Secrets of Johnson & Johnson",
+    "Autor": "Gardiner Harris",
+    "Precio": null,
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 283,
+     "Año": 2024,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "The Total Money Makeover Updated and Expanded: A Proven Plan for Financial Peace",
+    "Autor": "Dave Ramsey",
+    "Precio": null,
+    "Estrellas": 4.7,
+    "Número de Calificaciones": 21833,
+     "Año": 2024,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.",
+    "Autor": "Brené Brown",
+    "Precio": null,
+    "Estrellas": 4.7,
+    "Número de Calificaciones": 21571,
+     "Año": 2024,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "Never Finished: Unshackle Your Mind and Win the War Within",
+    "Autor": "David Goggins",
+    "Precio": null,
+    "Estrellas": 4.8,
+    "Número de Calificaciones": 13105,
+     "Año": 2024,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "The Laws of Human Nature",
+    "Autor": "Robert Greene",
+    "Precio": null,
+    "Estrellas": 4.8,
+    "Número de Calificaciones": 16578,
+     "Año": 2024,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "Radical Candor: Fully Revised & Updated Edition: Be a Kick‑Ass Boss Without Losing Your Humanity",
+    "Autor": "Kim Scott",
+    "Precio": 4.88,
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 9219,
+     "Año": 2024,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Bad Company: Private Equity and the Death of the American Dream",
+    "Autor": "Megan Greenwell",
+    "Precio": null,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": null,
+     "Año": 2024,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "Who Knew",
+    "Autor": "Barry Diller",
+    "Precio": null,
+    "Estrellas": 4.7,
+    "Número de Calificaciones": 215,
+     "Año": 2024,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "Think and Grow Rich",
+    "Autor": "Napoleon Hill",
+    "Precio": 10.95,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 80289,
+     "Año": 2024,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "On Character: Choices That Define a Life",
+    "Autor": "General Stanley McChrystal",
+    "Precio": 20.98,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 141,
+     "Año": 2024,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Emotional Intelligence 2.0",
+    "Autor": "Dr Travis Bradberry",
+    "Precio": 1.41,
+    "Estrellas": 4.5,
+    "Número de Calificaciones": 13827,
+     "Año": 2024,
+    "Tipo de Lista": "Hardcover"
+  },
+  {
+    "Título": "Outliers: The Story of Success",
+    "Autor": "Malcolm Gladwell",
+    "Precio": 1.33,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 38354,
+     "Año": 2024,
+    "Tipo de Lista": "Paperback"
+  },
+  {
+    "Título": "The AI‑Driven Leader: Harnessing AI to Make Faster, Smarter Decisions",
+    "Autor": "Geoff Woods",
+    "Precio": null,
+    "Estrellas": 4.6,
+    "Número de Calificaciones": 204,
+     "Año": 2024,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+    "Título": "$100M Offers: How to Make Offers So Good People Feel Stupid Saying No",
+    "Autor": "Alex Hormozi",
+    "Precio": 13.08,
+    "Estrellas": 4.9,
+    "Número de Calificaciones": 26147,
+     "Año": 2024,
+    "Tipo de Lista": "Audible Audiobook"
+  },
+  {
+        "Título": "Never Lie",
+        "Autor": "Freida McFadden",
+        "Precio": 3.64,
+        "Estrellas": 4.4,
+        "Número de Calificaciones": 254503,
+        "Año": 2024,
+        "Tipo de Lista": "Paperback"
+    },
+    {
+        "Título": "Outlive: The Science and Art of Longevity",
+        "Autor": "Peter Attia MD",
+        "Precio": 8.99,
+        "Estrellas": 4.6,
+        "Número de Calificaciones": 17696,
+        "Año": 2024,
+        "Tipo de Lista": "Hardcover"
+    },
+    {
+        "Título": "Scholastic Flash Cards: Sight Words",
+        "Autor": "Scholastic Teacher Resources",
+        "Precio": 2.88,
+        "Estrellas": 4.8,
+        "Número de Calificaciones": 31123,
+        "Año": 2024,
+        "Tipo de Lista": "Cards"
+    },
+    {
+        "Título": "The Big Book of Silly Jokes for Kids",
+        "Autor": "Carole P. Roman",
+        "Precio": 1.24,
+        "Estrellas": 4.7,
+        "Número de Calificaciones": 24668,
+        "Año": 2024,
+        "Tipo de Lista": "Paperback"
+    },
+    {
+        "Título": "The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",
+        "Autor": "Erik Larson",
+        "Precio": 5.91,
+        "Estrellas": 4.5,
+        "Número de Calificaciones": 13774,
+        "Año": 2024,
+        "Tipo de Lista": "Hardcover"
+    },
+    {
+        "Título": "Difficult Riddles For Smart Kids: 300 Difficult Riddles And Brain Teasers Families Will Love (Thinking Books for Kids)",
+        "Autor": "M Prefontaine",
+        "Precio": 3.99,
+        "Estrellas": 4.6,
+        "Número de Calificaciones": 33727,
+        "Año": 2024,
+        "Tipo de Lista": "Paperback"
+    },
+    {
+        "Título": "The Atlas Six",
+        "Autor": "Olivie Blake",
+        "Precio": 12.99,
+        "Estrellas": 4.3,
+        "Número de Calificaciones": 89234,
+        "Año": 2024,
+        "Tipo de Lista": "Paperback"
+    },
+    {
+        "Título": "Children of Anguish and Anarchy",
+        "Autor": "Tomi Adeyemi",
+        "Precio": 14.99,
+        "Estrellas": 4.7,
+        "Número de Calificaciones": 12456,
+        "Año": 2024,
+        "Tipo de Lista": "Hardcover"
+    },
+    {
+        "Título": "The First Gentleman: A Thriller",
+        "Autor": "James Patterson",
+        "Precio": 14.98,
+        "Estrellas": 4.6,
+        "Número de Calificaciones": 1140,
+        "Año": 2024,
+        "Tipo de Lista": "Hardcover"
+    },
+    {
+        "Título": "Never Flinch: A Novel",
+        "Autor": "Stephen King",
+        "Precio": 16.04,
+        "Estrellas": 4.5,
+        "Número de Calificaciones": 2727,
+        "Año": 2024,
+        "Tipo de Lista": "Hardcover"
+    }
 ]

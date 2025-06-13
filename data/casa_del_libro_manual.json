@@ -1,5 +1,68 @@
 [
     {
-        
-    }
+    "libro": "Origen",
+    "autor": "Dan Brown",
+    "año": 2018
+  },
+  {
+    "libro": "Mi querido asesino en serie",
+    "autor": "Alicia Giménez Bartlett",
+    "año": 2018
+  },
+  {
+    "libro": "El lado oscuro del amor",
+    "autor": "Michael Connelly",
+    "año": 2018
+  },
+  {
+    "libro": "Tantos lobos",
+    "autor": "Lorenzo Silva",
+    "año": 2018
+  },
+  {
+    "libro": "Alto riesgo",
+    "autor": "Ken Follett",
+    "año": 2018
+  },
+  {
+    "libro": "El hombre que perseguía a su sombra",
+    "autor": "David Lagercrantz",
+    "año": 2018
+  },
+  {
+    "libro": "La mujer en la ventana",
+    "autor": "A. J. Finn",
+    "año": 2018
+  },
+  {
+    "libro": "El día que se perdió la cordura",
+    "autor": "Javier Castillo",
+    "año": 2018
+  },
+  {
+    "libro": "La mujer del camarote 10",
+    "autor": "Ruth Ware",
+    "año": 2018
+  },
+  {
+    "libro": "Donde fuimos invencibles",
+    "autor": "María Oruña",
+    "año": 2018
+  },
+  {
+    "libro": "El terror",
+    "autor": "Dan Simmons",
+    "año": 2018
+  },
+  {
+    "libro": "El legado de los espías",
+    "autor": "John le Carré",
+    "año": 2018
+  },
+  {
+    "libro": "Morir no es lo que más duele",
+    "autor": "Inés Plana",
+    "año": 2018
+  },
+  
 ]
