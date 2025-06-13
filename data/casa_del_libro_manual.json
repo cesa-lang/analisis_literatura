@@ -64,5 +64,209 @@
     "autor": "Inés Plana",
     "año": 2018
   },
-  
+  {
+    "libro": "La chica de nieve",
+    "autor": "Javier Castillo",
+    "año": 2019
+  },
+  {
+    "libro": "Y Julia retó a los dioses",
+    "autor": "Santiago Posteguillo",
+    "año": 2019
+  },
+  {
+    "libro": "Un cuento perfecto",
+    "autor": "Elisa Benavent",
+    "año": 2019
+  },
+  {
+    "libro": "La Madre de Frankenstein",
+    "autor": "Almudena Grandes",
+    "año": 2019
+  },
+  {
+    "libro": "Reina Roja",
+    "autor": "Juan Gómez-Jurado",
+    "año": 2019
+  },
+  {
+    "libro": "Loba Negra",
+    "autor": "Juan Gómez-Jurado",
+    "año": 2019
+  },
+  {
+    "libro": "Reina Roja",
+    "autor": "Juan Gómez-Jurado",
+    "año": 2020
+  },
+  {
+    "libro": "La chica de nieve",
+    "autor": "Javier Castillo",
+    "año": 2020
+  },
+  {
+    "libro": "La boda de la asistenta",
+    "autor": "Freida McFadden",
+    "año": 2020
+  },
+  {
+    "libro": "No tengas miedo",
+    "autor": "Stephen King",
+    "año": 2020
+  },
+  {
+    "libro": "El asesinato de Aristóteles",
+    "autor": "Marcos Chicot",
+    "año": 2020
+  },
+  {
+    "libro": "Los mensajeros de la oscuridad",
+    "autor": "John Connolly",
+    "año": 2020
+  },
+  {
+    "libro": "El misterio Hannah Larson",
+    "autor": "Alexandre Escrivà",
+    "año": 2020
+  },
+  {
+    "libro": "El abogado del Lincoln",
+    "autor": "Michael Connelly",
+    "año": 2020
+  },
+  {
+    "libro": "El misterio de la turista que murió dos veces",
+    "autor": "Susana López Rubio",
+    "año": 2020
+  },
+  {
+    "libro": "La Bestia",
+    "autor": "Carmen Mola",
+    "año": 2021
+  },
+  {
+    "libro": "Nunca",
+    "autor": "Ken Follett",
+    "año": 2021
+  },
+  {
+    "libro": "El jueves siguiente",
+    "autor": "Richard Osman",
+    "año": 2021
+  },
+  {
+    "libro": "La voz ausente",
+    "autor": "Gabriel Rolón",
+    "año": 2021
+  },
+  {
+    "libro": "Gótico",
+    "autor": "Silvia Moreno-García",
+    "año": 2021
+  },
+  {
+    "libro": "El libro negro de las horas",
+    "autor": "Eva García Sáenz de Urturi",
+    "año": 2022
+  },
+  {
+    "libro": "La Bestia",
+    "autor": "Carmen Mola",
+    "año": 2022
+  },
+  {
+    "libro": "El crimen de Malladas",
+    "autor": "Luis Roso",
+    "año": 2022
+  },
+  {
+    "libro": "No soy un monstruo",
+    "autor": "Carme Chaparro",
+    "año": 2022
+  },
+  {
+    "libro": "El caso Alaska Sanders",
+    "autor": "Joël Dicker",
+    "año": 2022
+  },
+  {
+    "libro": "Riccardino",
+    "autor": "Andrea Camilleri",
+    "año": 2022
+  },
+  {
+    "libro": "La chica del verano",
+    "autor": "La Vecina Rubia",
+    "año": 2023
+  },
+  {
+    "libro": "Todo arde",
+    "autor": "Juan Gómez-Jurado",
+    "año": 2023
+  },
+  {
+    "libro": "La reina roja",
+    "autor": "Juan Gómez-Jurado",
+    "año": 2023
+  },
+  {
+    "libro": "La novia gitana",
+    "autor": "Carmen Mola",
+    "año": 2023
+  },
+  {
+    "libro": "La novia perfecta",
+    "autor": "Ruth Ware",
+    "año": 2023
+  },
+  {
+    "libro": "El secreto de la asistenta",
+    "autor": "Freida McFadden",
+    "año": 2023
+  },
+  {
+    "libro": "El asesinato de la profesora de piano",
+    "autor": "Joël Dicker",
+    "año": 2023
+  },
+  {
+    "libro": "El caso Alaska Sanders",
+    "autor": "Joël Dicker",
+    "año": 2023
+  },
+  {
+    "libro": "La grieta del silencio",
+    "autor": "Javier Castillo",
+    "año": 2024
+  },
+  {
+    "libro": "El Clan",
+    "autor": "Carmen Mola",
+    "año": 2024
+  },
+  {
+    "libro": "La asistenta te vigila",
+    "autor": "Freida McFadden",
+    "año": 2024
+  },
+  {
+    "libro": "El nido del cuco",
+    "autor": "Camilla Läckberg",
+    "año": 2024
+  },
+  {
+    "libro": "Dama Blanca",
+    "autor": "Marta Martín Girón",
+    "año": 2024
+  },
+  {
+    "libro": "Carnicero",
+    "autor": "Joyce Carol Oates",
+    "año": 2024
+  },
+  {
+    "libro": "La paciente silenciosa",
+    "autor": "Alex Michaelides",
+    "año": 2024
+  }
 ]
